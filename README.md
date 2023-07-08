@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only"align="center" height="325" />
+<img src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e473z04ibut8lyqqf1u9y8cvjewdv13xwgasq2xwmtn&ep=v1_gifs_search&rid=giphy.gif&ct=g"align="center" height="325" />
 </div>  
 
-## <div align="center">I'm Arun, a front-end and AI developer 👨‍💻 Student 🚀</div>  
+## <div align="center">I'm Arun, a front-end and AI developer 🙄 Student </div>  
   
 
 - 🔭 I’m currently working on AI projects  
