@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e473z04ibut8lyqqf1u9y8cvjewdv13xwgasq2xwmtn&ep=v1_gifs_search&rid=giphy.gif&ct=g"align="center" height="325" />
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"align="center" height="325" />
 </div>  
 
 ## <div align="center">I'm Arun, a front-end and AI developer 🙄 Student </div>  
